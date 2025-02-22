@@ -22,3 +22,6 @@ venv/
 
 # Ignore cloud credentials (VERY IMPORTANT)
 *.json
+.bash_history
+.gitconfig
+.lesshst
