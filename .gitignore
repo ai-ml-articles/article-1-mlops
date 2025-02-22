@@ -25,3 +25,4 @@ venv/
 .bash_history
 .gitconfig
 .lesshst
+.bash_history
